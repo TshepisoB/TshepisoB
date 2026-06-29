@@ -1,16 +1,45 @@
-## Hi there 👋
+rian | Full Stack & Android Developer
+🚀 About Me
 
-<!--
-**TshepisoB/TshepisoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a passionate developer focused on Web Development and Android Development.
+I enjoy building real-world applications while continuously improving my skills — from small projects to full-stack systems.
 
-Here are some ideas to get you started:
+I believe in learning by building and improving projects over time rather than aiming for perfection immediately.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Skills
+📱 Android Development
+Android Studio
+XML Layout Design
+Java
+Kotlin
+🌐 Frontend Development
+HTML5
+CSS3
+JavaScript
+jQuery
+Responsive Web Design
+UX/UI Design Principles
+⚙️ Backend Development
+Node.js
+Express.js
+EJS (Embedded JavaScript Templates)
+REST APIs (learning & integration)
+🗄️ Databases
+PostgreSQL
+💻 Additional Programming Languages
+C# (.NET)
+Java
+🧠 Core Skills
+Problem Solving
+Logical Thinking
+Debugging
+Full Stack Application Development
+
+How I Work
+
+I usually start with a simple version of a project, then gradually improve it by:
+
+Adding backend functionality
+Connecting databases
+Improving UI/UX
+Making it scalable and more professional
