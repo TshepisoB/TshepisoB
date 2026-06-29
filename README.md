@@ -3,131 +3,162 @@
 <h2>🚀 About Me</h2>
 
 <p>
-Hi! I’m a passionate developer focused on <b>Web Development</b> and <b>Android Development</b>.
-<br><br>
-I enjoy building real-world applications while continuously improving my skills — from small projects to full-stack systems.
-<br><br>
+Hi! I’m a passionate developer focused on <b>Web Development</b> and <b>Android Development</b>.<br><br>
+
+I enjoy building real-world applications while continuously improving my skills — from small projects to full-stack systems.<br><br>
+
 I believe in learning by building and improving projects over time rather than aiming for perfection immediately.
 </p>
 
 ---
 
 <h2>🛠️ Tech Stack & Skills</h2>
+
+<!-- ANDROID -->
 <h3>📱 Android Development</h3>
 
 <table>
 <tr>
-<td><img src="https://img.icons8.com/color/48/android-studio--v3.png"/></td>
-<td>Android Studio</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/android-studio--v3.png"/><br>
+Android Studio
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/xml-file.png"/></td>
-<td>XML Layouts</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/xml-file.png"/><br>
+XML
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/></td>
-<td>Java</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br>
+Java
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/kotlin.png"/></td>
-<td>Kotlin</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/kotlin.png"/><br>
+Kotlin
+</td>
 </tr>
 </table>
 
+---
+
+<!-- FRONTEND -->
 <h3>🌐 Frontend Development</h3>
 
 <table>
 <tr>
-<td><img src="https://img.icons8.com/color/48/html-5--v1.png"/></td>
-<td>HTML5</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/><br>
+HTML5
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/css3.png"/></td>
-<td>CSS3</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/css3.png"/><br>
+CSS3
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/javascript--v1.png"/></td>
-<td>JavaScript</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/javascript--v1.png"/><br>
+JavaScript
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/jquery.png"/></td>
-<td>jQuery</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/jquery.png"/><br>
+jQuery
+</td>
 
-<tr>
-<td>📱</td>
-<td>Responsive Design</td>
-</tr>
+<td align="center">
+📱<br>
+Responsive Design
+</td>
 
-<tr>
-<td>🎨</td>
-<td>UX/UI Design</td>
+<td align="center">
+🎨<br>
+UX/UI Design
+</td>
 </tr>
 </table>
 
+---
 
+<!-- BACKEND -->
 <h3>⚙️ Backend Development</h3>
 
 <table>
 <tr>
-<td><img src="https://img.icons8.com/fluency/48/node-js.png"/></td>
-<td>Node.js</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/node-js.png"/><br>
+Node.js
+</td>
 
-<tr>
-<td><img src="https://img.icons8.com/color/48/express-js.png"/></td>
-<td>Express.js</td>
-</tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/express-js.png"/><br>
+Express.js
+</td>
 
-<tr>
-<td>📄</td>
-<td>EJS Templates</td>
-</tr>
+<td align="center">
+📄<br>
+EJS Templates
+</td>
 
-<tr>
-<td>🔗</td>
-<td>REST APIs (learning)</td>
+<td align="center">
+🔗<br>
+REST APIs
+</td>
 </tr>
 </table>
 
-<h3>🗄️ Databases</h3>
-<p>
-<img src="https://img.icons8.com/color/48/postgreesql.png"/>
-<br>
-PostgreSQL
-</p>
+---
 
+<!-- DATABASE -->
+<h3>🗄️ Databases</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/postgreesql.png"/><br>
+PostgreSQL
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PROGRAMMING LANGUAGES -->
 <h3>💻 Programming Languages</h3>
-<p>
-<img src="https://img.icons8.com/color/48/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<br>
-C# (.NET) • Java
-</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br>
+C# (.NET)
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br>
+Java
+</td>
+</tr>
+</table>
+
+---
 
 <h3>🧠 Core Skills</h3>
-<p>
-✔ Problem Solving <br>
-✔ Debugging <br>
-✔ Logical Thinking <br>
+
+✔ Problem Solving<br>
+✔ Logical Thinking<br>
+✔ Debugging<br>
 ✔ Full Stack Development
-</p>
+
+---
 
 <h3>⚙️ How I Work</h3>
-<p>
-I start small → build basic version → then improve it step by step:
-<br>
-✔ Add backend<br>
-✔ Connect database<br>
-✔ Improve UI/UX<br>
+
+I usually start with a simple version of a project, then improve it step by step:
+
+✔ Build basic version  
+✔ Add backend  
+✔ Connect database  
+✔ Improve UI/UX  
 ✔ Scale the system
-</p>
-
-
-
