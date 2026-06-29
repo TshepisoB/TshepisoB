@@ -1,6 +1,6 @@
 <h1 align="center"> Brian | Full Stack & Android Developer</h1>
 
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 
 <p>
 Hi! I’m a passionate developer focused on <b>Web Development</b> and <b>Android Development</b>.<br><br>
@@ -12,7 +12,7 @@ I believe in learning by building and improving projects over time rather than a
 
 ---
 
-<h2>🛠️ Tech Stack & Skills</h2>
+<h2>Tech Stack & Skills</h2>
 
 <!-- ANDROID -->
 <h3>📱 Android Development</h3>
