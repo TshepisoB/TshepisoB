@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Brian | Full Stack & Android Developer</h1>
+<h1 align="center"> Brian | Full Stack & Android Developer</h1>
 
 <h2>🚀 About Me</h2>
 
@@ -143,23 +143,3 @@ Java
 </tr>
 </table>
 
----
-
-<h3>🧠 Core Skills</h3>
-
-✔ Problem Solving<br>
-✔ Logical Thinking<br>
-✔ Debugging<br>
-✔ Full Stack Development
-
----
-
-<h3>⚙️ How I Work</h3>
-
-I usually start with a simple version of a project, then improve it step by step:
-
-✔ Build basic version  
-✔ Add backend  
-✔ Connect database  
-✔ Improve UI/UX  
-✔ Scale the system
