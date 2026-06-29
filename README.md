@@ -1,4 +1,4 @@
-rian | Full Stack & Android Developer
+Brian | Full Stack & Android Developer
 🚀 About Me
 
 Hi! I’m a passionate developer focused on Web Development and Android Development.
