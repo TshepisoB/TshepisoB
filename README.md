@@ -64,9 +64,10 @@ JavaScript
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/jquery.png"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="48"/><br>
 jQuery
 </td>
+
 
 <td align="center">
 📱<br>
