@@ -15,56 +15,86 @@ I believe in learning by building and improving projects over time rather than a
 <h2>🛠️ Tech Stack & Skills</h2>
 <h3>📱 Android Development</h3>
 
+<table>
+<tr>
+<td><img src="https://img.icons8.com/color/48/android-studio--v3.png"/></td>
+<td>Android Studio</td>
+</tr>
 
-<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-    <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
-    <span>Android Studio</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/xml-file.png"/></td>
+<td>XML Layouts</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/xml-file.png"/>
-    <span>XML Layouts</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/></td>
+<td>Java</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-    <span>Java</span>
-
-    <img src="https://img.icons8.com/color/48/kotlin.png"/>
-    <span>Kotlin</span>
-</div>
+<tr>
+<td><img src="https://img.icons8.com/color/48/kotlin.png"/></td>
+<td>Kotlin</td>
+</tr>
+</table>
 
 <h3>🌐 Frontend Development</h3>
 
-<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-    <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
-    <span>HTML5</span>
+<table>
+<tr>
+<td><img src="https://img.icons8.com/color/48/html-5--v1.png"/></td>
+<td>HTML5</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/css3.png"/>
-    <span>CSS3</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/css3.png"/></td>
+<td>CSS3</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
-    <span>JavaScript</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/javascript--v1.png"/></td>
+<td>JavaScript</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/jquery.png"/>
-    <span>jQuery</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/jquery.png"/></td>
+<td>jQuery</td>
+</tr>
 
-    <img src="https://img.icons8.com/ios-filled/50/responsive.png"/>
-    <span>Responsive Design</span>
+<tr>
+<td>📱</td>
+<td>Responsive Design</td>
+</tr>
 
-    <img src="https://img.icons8.com/ios-filled/50/design.png"/>
-    <span>UX/UI Design</span>
-</div>
+<tr>
+<td>🎨</td>
+<td>UX/UI Design</td>
+</tr>
+</table>
+
 
 <h3>⚙️ Backend Development</h3>
 
-<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-    <img src="https://img.icons8.com/fluency/48/node-js.png"/>
-    <span>Node.js</span>
+<table>
+<tr>
+<td><img src="https://img.icons8.com/fluency/48/node-js.png"/></td>
+<td>Node.js</td>
+</tr>
 
-    <img src="https://img.icons8.com/color/48/express-js.png"/>
-    <span>Express.js</span>
+<tr>
+<td><img src="https://img.icons8.com/color/48/express-js.png"/></td>
+<td>Express.js</td>
+</tr>
 
-    <span>📄 EJS Templates</span>
+<tr>
+<td>📄</td>
+<td>EJS Templates</td>
+</tr>
 
-    <span>🔗 REST APIs (learning)</span>
-</div>
+<tr>
+<td>🔗</td>
+<td>REST APIs (learning)</td>
+</tr>
+</table>
 
 <h3>🗄️ Databases</h3>
 <p>
