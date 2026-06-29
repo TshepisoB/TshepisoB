@@ -6,7 +6,7 @@ I enjoy building real-world applications while continuously improving my skills 
 
 I believe in learning by building and improving projects over time rather than aiming for perfection immediately.
 
-🛠️ Tech Stack & Skills
+-🛠️ Tech Stack & Skills
 📱 Android Development
 Android Studio
 XML Layout Design
