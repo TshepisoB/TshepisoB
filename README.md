@@ -1,4 +1,4 @@
-Brian | Full Stack & Android Developer
+### Brian | Full Stack & Android Developer
 🚀 About Me
 
 Hi! I’m a passionate developer focused on Web Development and Android Development.
@@ -7,11 +7,11 @@ I enjoy building real-world applications while continuously improving my skills 
 I believe in learning by building and improving projects over time rather than aiming for perfection immediately.
 
 ### 🛠️ Tech Stack & Skills
-📱 Android Development
-Android Studio
-XML Layout Design
-Java
-Kotlin
+-📱 Android Development
+-Android Studio
+-XML Layout Design
+-Java
+-Kotlin
 
 ### 🌐 Frontend Development
 HTML5
