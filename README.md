@@ -13,34 +13,58 @@ I believe in learning by building and improving projects over time rather than a
 ---
 
 <h2>🛠️ Tech Stack & Skills</h2>
-
 <h3>📱 Android Development</h3>
-<p>
-<img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
-<img src="https://img.icons8.com/color/48/xml-file.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/kotlin.png"/>
-<br>
-Android Studio • XML • Java • Kotlin
-</p>
+
+
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
+    <span>Android Studio</span>
+
+    <img src="https://img.icons8.com/color/48/xml-file.png"/>
+    <span>XML Layouts</span>
+
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+    <span>Java</span>
+
+    <img src="https://img.icons8.com/color/48/kotlin.png"/>
+    <span>Kotlin</span>
+</div>
 
 <h3>🌐 Frontend Development</h3>
-<p>
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
-<img src="https://img.icons8.com/color/48/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/jquery.png"/>
-<br>
-HTML5 • CSS3 • JavaScript • jQuery • Responsive Design • UX/UI
-</p>
+
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+    <span>HTML5</span>
+
+    <img src="https://img.icons8.com/color/48/css3.png"/>
+    <span>CSS3</span>
+
+    <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+    <span>JavaScript</span>
+
+    <img src="https://img.icons8.com/color/48/jquery.png"/>
+    <span>jQuery</span>
+
+    <img src="https://img.icons8.com/ios-filled/50/responsive.png"/>
+    <span>Responsive Design</span>
+
+    <img src="https://img.icons8.com/ios-filled/50/design.png"/>
+    <span>UX/UI Design</span>
+</div>
 
 <h3>⚙️ Backend Development</h3>
-<p>
-<img src="https://img.icons8.com/fluency/48/node-js.png"/>
-<img src="https://img.icons8.com/color/48/express-js.png"/>
-<br>
-Node.js • Express.js • EJS • REST APIs (learning)
-</p>
+
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://img.icons8.com/fluency/48/node-js.png"/>
+    <span>Node.js</span>
+
+    <img src="https://img.icons8.com/color/48/express-js.png"/>
+    <span>Express.js</span>
+
+    <span>📄 EJS Templates</span>
+
+    <span>🔗 REST APIs (learning)</span>
+</div>
 
 <h3>🗄️ Databases</h3>
 <p>
