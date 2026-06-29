@@ -76,38 +76,4 @@ I start small → build basic version → then improve it step by step:
 </p>
 
 
-body {
-    font-family: Arial, sans-serif;
-    background: #0f172a;
-    color: white;
-    margin: 0;
-    padding: 20px;
-}
 
-h1 {
-    color: #38bdf8;
-    text-align: center;
-}
-
-h2 {
-    color: #22c55e;
-    border-bottom: 2px solid #334155;
-    padding-bottom: 5px;
-}
-
-h3 {
-    color: #facc15;
-}
-
-p {
-    line-height: 1.6;
-}
-
-img {
-    margin: 5px;
-    transition: transform 0.2s;
-}
-
-img:hover {
-    transform: scale(1.1);
-}
