@@ -6,27 +6,31 @@ I enjoy building real-world applications while continuously improving my skills 
 
 I believe in learning by building and improving projects over time rather than aiming for perfection immediately.
 
--🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 📱 Android Development
 Android Studio
 XML Layout Design
 Java
 Kotlin
-🌐 Frontend Development
+
+### 🌐 Frontend Development
 HTML5
 CSS3
 JavaScript
 jQuery
 Responsive Web Design
 UX/UI Design Principles
-⚙️ Backend Development
+
+### ⚙️ Backend Development
 Node.js
 Express.js
 EJS (Embedded JavaScript Templates)
 REST APIs (learning & integration)
-🗄️ Databases
+
+### 🗄️ Databases
 PostgreSQL
-💻 Additional Programming Languages
+
+### 💻 Additional Programming Languages
 C# (.NET)
 Java
 🧠 Core Skills
@@ -35,7 +39,7 @@ Logical Thinking
 Debugging
 Full Stack Application Development
 
-How I Work
+### How I Work
 
 I usually start with a simple version of a project, then gradually improve it by:
 
