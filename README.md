@@ -1,4 +1,4 @@
-<h1 align="center"> Brian | Full Stack & Android Developer</h1>
+<h1 align="center"> Brian | Full Stack Website & Android Developer</h1>
 
 <h2>About Me</h2>
 
