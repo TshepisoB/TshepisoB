@@ -38,9 +38,13 @@ Java
 <img src="https://img.icons8.com/color/48/kotlin.png"/><br>
 Kotlin
 </td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="48" height="48"/><br>
+SQLite
+</td>
 </tr>
 </table>
-
 ---
 
 <!-- FRONTEND -->
