@@ -46,13 +46,6 @@ SQLite
 </tr>
 </table>
 
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="48" height="48"/><br>
-SQLite
-</td>
-</tr>
-</table>
----
 
 <!-- FRONTEND -->
 <h3>🌐 Frontend Development</h3>
